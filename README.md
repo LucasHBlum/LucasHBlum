@@ -4,17 +4,10 @@ Conecte-se comigo:
 
 [![LucasHBlum GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHBlum)](https://github.com/LucasHBlum/github-readme-stats)
 
-
-**LucasHBlum/LucasHBlum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**UM POUCO SOBRE MIM:**
 
 - 🔭 Estou procurando emprego ou estágio na área de Desenvolvimento de Software.
 - 🌱 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI - Campus da Indústria, no qual me encontro no 3 e último semestre.
 - 👯 Gostaria de colaborar com projetos grandes, utilizando linguagens como SQL, C#, C/C++ ou Python.
-- 🤔 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Entre em contato comigo: lucashblum@gmail.com  
 
