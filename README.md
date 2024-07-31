@@ -10,8 +10,7 @@
 - Conecte-se comigo no:
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-blum-04ab3631b/)
 
-- ✉️ Para mais informações, veja meu **CURRÍCULO**
-<a href="" class="nav-link">
+- ✉️ Para mais informações, veja meu <a href="https://github.com/LucasHBlum/LucasHBlum/blob/main/curriculo.lucas" class="nav-link"> **CURRÍCULO**
 
 **POSSUO EXPERIÊNCIA COM:**
 
