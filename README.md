@@ -8,7 +8,6 @@ Conecte-se comigo:
 
 - 🔭 Estou procurando meu primeiro emprego ou estágio na área de Desenvolvimento de Software.
 - 🌱 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI - Campus da Indústria, no qual me encontro no 3 e último semestre.
-- 👯 Gostaria de trabalhar utilizando linguagens como SQL, C#, C/C++ ou Python.
 - 📫 Entre em contato comigo: lucashblum@gmail.com
 
 <div style ="display: inline_block"><br/>
