@@ -8,7 +8,8 @@
 - 🌱 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI - Campus da Indústria, no qual me encontro no 3 e último período.
 - 📫 Entre em contato comigo: lucashblum@gmail.com
 - ✉️ Para mais informações, veja meu <a href="https://github.com/LucasHBlum/LucasHBlum/blob/main/curriculo.lucas" class="nav-link"> **CURRÍCULO**
-- Conecte-se comigo no: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-blum-04ab3631b/)
+- Conecte-se comigo no:
+                       [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-blum-04ab3631b/)
 
 **POSSUO EXPERIÊNCIA COM:**
 
