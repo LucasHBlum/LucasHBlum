@@ -10,7 +10,7 @@
 - Conecte-se comigo no:
                        [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-blum-04ab3631b/)
 
-**POSSUO EXPERIÊNCIA COM:**
+**POSSUO EXPERIÊNCIA CM:**
 <div style ="display: inline_block"><br/>
 
  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
