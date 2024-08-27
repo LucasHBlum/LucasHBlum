@@ -1,6 +1,4 @@
 
-![logo](https://github.com/LucasHBlum/LucasHBlum/blob/main/senai.png)
-
 [![LucasHBlum GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHBlum)](https://github.com/LucasHBlum/github-readme-stats)
 
 **UM POUCO SOBRE MIM:**
