@@ -1,7 +1,7 @@
 
 [![LucasHBlum GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHBlum)](https://github.com/LucasHBlum/github-readme-stats)
 
-**UM POUCO SOBRE MIM:**
+**UM POUCO SOBRE MI:**
 
 - 🔭 Estou procurando meu primeiro emprego ou estágio na área de Desenvolvimento de Software.
 - 🌱 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI - Campus da Indústria, no qual me encontro no 3 e último período.
